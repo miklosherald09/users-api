@@ -1,17 +1,17 @@
 # Getting Started with Users-API
 
-
+## Available Scripts
 ### `npm install`
 
 Install Dependencies
 
 ### `npm run migrate`
 
-npm migrate: Migrates the mysql users table 
+Migrates the mysql users table 
 
 ### `npm run seed`
 
-npm migrate: Populate the users table
+Populate the users table
 ### `npm test`
 
 Launches the user-api test 
