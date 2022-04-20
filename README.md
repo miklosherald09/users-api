@@ -1,7 +1,5 @@
 # Getting Started with Users-API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 
 ### `npm install`
 
@@ -17,11 +15,6 @@ npm migrate: Populate the users table
 ### `npm test`
 
 Launches the user-api test 
-
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
