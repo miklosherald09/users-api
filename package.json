@@ -1,0 +1,26 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "migrate": "node migration.js",
+    "seed": "node seeder.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-basic-auth": "^1.2.1",
+    "faker": "^5.5.3",
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "mysql-db-seed": "0.0.4",
+    "supertest": "^6.2.2"
+  }
+}
