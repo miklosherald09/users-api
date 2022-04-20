@@ -27,8 +27,8 @@ password: 1234<br />
 GET  http://localhost:3000/users/
 <br />
 #### create users
-POST http://localhost:3000/users
-json payload: {"first_name":"22222", "last_name": 2011, "address": 13, "post_code": 20, "phone_no": 25 "email": "mik@g.com", "user_name": "mik", "password": 1234}
+POST http://localhost:3000/users<br />
+json payload: {"first_name":"Juan", "last_name": "Dela Cruz", "address": "nort east south", "post_code": 2313, "phone_no": 34343 "email": "mail@mail.com", "user_name": "John", "password": 1234}
 <br />
 #### update user
 PUT http://localhost:3000/users/{id}
