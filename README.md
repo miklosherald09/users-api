@@ -5,11 +5,11 @@
 
 Install Dependencies
 
-### `npm migrate`
+### `npm run migrate`
 
 npm migrate: Migrates the mysql users table 
 
-### `npm seed`
+### `npm run seed`
 
 npm migrate: Populate the users table
 ### `npm test`
