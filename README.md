@@ -17,7 +17,7 @@ Populate the users table
 Launches the user-api test 
 ### `npm start`
 
-### `API Endpoints`
+## `API Endpoints`
 
 use BASIC AUTH for admin authentication<br />
 username: admin<br />
